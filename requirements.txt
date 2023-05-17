@@ -1,0 +1,7 @@
+transformers
+openai
+langchain
+tqdm
+python-dotenv
+science_parse_api
+
